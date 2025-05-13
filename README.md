@@ -28,8 +28,8 @@ While there is a linear trend of higher budgets leading to higher revenues, the 
 ![Facet Plot](netflix_facetgraph.png)
 
 
-## R Graphing Fundamentals Bar Chart: Top 5 Netflix Movies by Revenue
-Lastly, this bar chart made from graphing fundamentals shows the top 5 highest-grossing Netflix movies by revenue.  
+## R Base Graphics Bar Chart: Top 5 Netflix Movies by Revenue
+Lastly, this bar chart custom-made from R base graphics shows the top 5 highest-grossing Netflix movies by revenue.  
 This visual emphasizes how blockbuster franchises remain key drivers of revenue, and it reflects Netflix’s strategy of providing commercially successful titles to strengthen its content catalogue.
 
 ![Bar Chart](netflix_barchart.png)
