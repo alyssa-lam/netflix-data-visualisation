@@ -80,7 +80,7 @@ ggplot(nf2, mapping = aes(x = long, y = lat, group = group)) +
 
 
 
-# FACET GRAPH: COUNT OF NETFLIX MOVIES RELEASED OVER THE YEARS BY GENRE
+# FACET PLOT: COUNT OF NETFLIX MOVIES RELEASED OVER THE YEARS BY GENRE
 
 # Data cleaning:
 # use only first genre if there is more than one and remove blank genres
