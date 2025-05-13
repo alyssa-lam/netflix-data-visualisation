@@ -112,7 +112,7 @@ ggplot(nf3, aes(x = release_year, y = movie_count)) +
 
 
 
-# R GRAPHING FUNDAMENTALS BAR CHART: TOP 5 NEFLIX MOVIES BY REVENUE
+# R GRAPHING FUNDAMENTALS BAR CHART: TOP 5 NETFLIX MOVIES BY REVENUE
 
 # Data cleaning:
 # get the top 5 movies by revenue
