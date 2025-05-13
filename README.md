@@ -1,4 +1,4 @@
-# Netflix Data Visualisation
+# Netflix Data Visualisation Project
 
 ## Summary
 This project provides insights into Netflix movie data up to 2025, focusing on key factors like budget, genre, country of origin, and metrics like revenue and viewer ratings.  
