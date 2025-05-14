@@ -1,4 +1,4 @@
-# Netflix Data Visualisation Project
+# Netflix Data Visualization Project
 
 ## Summary
 This project provides insights into Netflix movie data up to 2025, focusing on key factors like budget, genre, country of origin, and metrics like revenue and viewer ratings.  
@@ -6,7 +6,7 @@ Through a series of data visualizations, coded in R (ggplot), we explore how the
 (Dataset and code included in directory)
 
 
-![Netflix Data Visualisation](netflix_data_viz_onepager.jpg)
+![Netflix Data Visualization](netflix_data_viz_onepager.jpg)
 
 ## Tile Plot: Budget vs Revenue and Average Rating of Netflix Movies
 This tile plot explores the relationship between movie budget and revenue, with color indicating average viewer rating.  
